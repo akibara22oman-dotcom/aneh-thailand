@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aneh-thailand",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dac07432-b4ef-4180-8c47-71a0fa36fa5a",
+			"database_name": "aneh-thailand"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
